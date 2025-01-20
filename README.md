@@ -1,16 +1,20 @@
-## Hi there 👋
+# Alexandre Rocha
+##💻 Estudante de Ciência de Dados | Explorando o mundo dos dados e da tecnologia!
 
-<!--
-**Nerdzera/Nerdzera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Sou um estudante apaixonado por resolver problemas com base em dados. Atualmente, estou cursando Tecnólogo em Ciência de Dados e aprendendo ferramentas e técnicas essenciais para me destacar na área.
 
-Here are some ideas to get you started:
+🌟 Também faço parte do programa Oracle Next Education (ONE), com foco na trilha de Data Science, e estou sempre em busca de desafios práticos para aplicar e expandir meus conhecimentos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nerdzera&show_icons=true&theme=tokyonight)
+
+My Stack 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
+ 
+ 
+</div>
+  
+  ##
+ 
